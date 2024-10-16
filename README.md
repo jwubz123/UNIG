@@ -5,7 +5,7 @@ The code for this project will be available soon. Stay tuned for updates!
 
 ![Method](Figures/method.png)
 
-Open-category 3D object reconstruction and novel view synthesis from a random number of multi-view images
+3D object reconstruction and novel view synthesis from a random number of multi-view images
 
 
 
