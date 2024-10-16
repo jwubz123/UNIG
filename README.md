@@ -10,6 +10,10 @@ Open-category 3D object reconstruction and novel view synthesis from a random nu
 
 
 
+https://github.com/user-attachments/assets/76d90a4e-a23b-4239-bc58-27ac4d9264b4
+
+
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
