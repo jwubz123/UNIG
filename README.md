@@ -24,3 +24,14 @@ If you find our work useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2404.16323},
   year={2024}
 }
+```
+Please also check our another project for single image reconstruction [DIG3D](https://github.com/jwubz123/DIG3D). The code will also be released soon.
+```bibtex
+@article{wu2024dig3d,
+  title={DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction},
+  author={Wu, Jiamin and Liu, Kenkun and Gao, Han and Jiang, Xiaoke and Zhang, Lei},
+  journal={arXiv preprint arXiv:2404.16323},
+  year={2024}
+}
+```
+
