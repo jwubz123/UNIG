@@ -1,7 +1,7 @@
 # UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction
 The code for this project will be available soon. Stay tuned for updates!
 
-[Project Page](https://kenkunliu.github.io/UNIG/) | [Arxiv](https://arxiv.org/abs/2404.16323)
+[Project Page](https://kenkunliu.github.io/UniG/) | [Arxiv](https://arxiv.org/abs/2404.16323)
 
 ![Method](Figures/method.png)
 
