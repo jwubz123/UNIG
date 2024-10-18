@@ -1,7 +1,7 @@
 # UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction
 The code for this project will be available soon. Stay tuned for updates!
 
-[Project Page](https://kenkunliu.github.io/UniG/) | [Arxiv](https://arxiv.org/abs/2404.16323)
+[Project Page](https://kenkunliu.github.io/UniG/) | [Arxiv](https://arxiv.org/abs/2410.13195)
 
 ![Method](Figures/method.png)
 
@@ -21,7 +21,7 @@ If you find our work useful in your research, please consider citing:
 @article{wu2024unig,
   title={UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction},
   author={Wu, Jiamin and Liu, Kenkun and Shi, Yukai and Jiang, Xiaoke and Yao, Yuan and Zhang, Lei},
-  journal={arXiv preprint arXiv:2404.16323},
+  journal={arXiv preprint arXiv:2410.13195},
   year={2024}
 }
 ```
